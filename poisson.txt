@@ -1,3 +1,5 @@
 Anchois
 Sardine
 Thon
+Maquereau
+Sardine
